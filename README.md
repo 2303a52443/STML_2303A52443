@@ -7,3 +7,4 @@ https://github.com/2303a52443/STML_2303A52443/blob/main/STML_A6.ipynb
 https://github.com/2303a52443/STML_2303A52443/blob/main/STML_A7.ipynb
 https://github.com/2303a52443/STML_2303A52443/blob/main/STML_A8.ipynb
 https://github.com/2303a52443/STML_2303A52443/blob/main/STML_A9.ipynb
+https://github.com/2303a52443/STML_2303A52443/blob/main/STML_A10.ipynb
